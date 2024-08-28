@@ -1,8 +1,10 @@
 ![logo](https://github.com/mastonaqvi/Muhammad_Raza_Naqvi/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Raza Naqvi</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan 🇵🇰</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastonaqvi" alt="mastonaqvi" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjdXl0YnN5dnhxbDJyNGlxejRyZGs3cGhuazE1djJ5NWJzN3VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
