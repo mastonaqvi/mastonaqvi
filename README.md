@@ -1,4 +1,3 @@
-![logo](https://github.com/mastonaqvi/Muhammad_Raza_Naqvi/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Raza Naqvi</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan 🇵🇰</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastonaqvi" alt="mastonaqvi" /></a> </p>
